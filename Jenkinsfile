@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library') _
+@Library('Gita-Task13') _
 pipeline {
     agent any
     stages {
@@ -11,3 +11,4 @@ pipeline {
         }
     }
 }
+
